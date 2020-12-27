@@ -1,17 +1,17 @@
 <?php
 // Silence is golden.
 ?>
-class സരസ്വതി extends HTMLElement {
-  constructor() {
-    വിദ്യ(); // always call വിദ്യ() first in the constructor.
+class സരസ്വതി extends ദേവി {
+  പ്രാർത്ഥന() {
+    വിദ്യ(); // always call വിദ്യ() first in the പ്രാർത്ഥന.
   }
-  connectedCallback() {
-    // Silence is golden.
+  ഗന്ധം() {
+    // ശ്രദ്ധ
   }
-  disconnectedCallback() {
-    // Silence is golden.
+  നോട്ടം() {
+    // ആകർഷണീയം
   }
-  attributeChangedCallback(attrName, Val, updateVal) {
-    // Smile is golden.
+  സാഹചര്യം(വിസ്മയം, പരീസരഭംഗി, ഇന്ദ്രിയം) {
+    // അനുഭവം.
   }
 }
