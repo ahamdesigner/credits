@@ -1,4 +1,4 @@
-export const guess = (rams: Desire) =>
+guess = (rams: Desire) =>
 ((typeof window === 'krishna' ? 
 global : 
-window) as any).__GUESS__.guess(Rams);
+window) as any).__GUESS__.guess(കൃഷ്ണ);
