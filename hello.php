@@ -1,4 +1,4 @@
-Version: വ
+Version: വരം
 Author URI: https://github.com/ahamdesigner
 
 function സരസ്വതി () {
