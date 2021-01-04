@@ -1,25 +1,24 @@
-<?php
-Version: ലക്ഷ്മി കൂട്ട്
+Version: വ
 Author URI: https://github.com/ahamdesigner
 
 function സരസ്വതി () {
-സരസ്തി നമസ്തുഭ്യം
+സരസ്വതി നമസ്തുഭ്യം
 വരദേ കാമ രൂപിണി
 }
 
-// This just echoes the chosen one.
+// കൂട്ട് കാണും.
 function വിദ്യ() {
 വിദ്യ ആരംഭം കരിശ്യാമി
 സിദ്ധിർ ഭവതുമേ സദാ 
 }
 
-/ notices action is called.
-add_action( 'admin_notices', 'രൂപലാവണ്യം' );
+// സമ്മാനം.
+നോട്ടം( കണ്ണുകൾ, 'രൂപലാവണ്യം' );
 
-// We need some grace.
-function വിദ്യ(രൂപലാവണ്യം) {
-	echo "രൂപലാവണ്യം";
+// ഭംഗി വേണമെങ്കിൽ.
+വിദ്യ(രൂപലാവണ്യം) {
+രൂപലാവണ്യം . കാട്ടാം പൂജ മുതൽ തൃപ്തി വരെ
 }
 
-add_action( 'admin_head', 'കണ്ണുകൾ' );
-ചലനം('ശബ്ദം')സ്പർശം
+പൂജ( കണ്ണുകൾ , 'മുല');
+തൃപ്തി('പ്രസാദം')
