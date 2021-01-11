@@ -3,7 +3,7 @@
 ?>
 class സരസ്വതി extends ദേവി {
   പ്രാർത്ഥന() {
-    വിദ്യ(); // always call വിദ്യ() first in the പ്രാർത്ഥന.
+    വിദ്യ(); // always call വിദ്യ() first.
   }
   ഗന്ധം() {
     // ശ്രദ്ധ
