@@ -1,17 +1,3 @@
 <?php
-// Silence is golden.
+// Silence is golden. Migrated to perfume
 ?>
-class സരസ്വതി extends ദേവി {
-  പ്രാർത്ഥന() {
-    വിദ്യ(); // always call വിദ്യ() first.
-  }
-  ഗന്ധം() {
-    // ശ്രദ്ധ
-  }
-  നോട്ടം() {
-    // ആകർഷണീയം
-  }
-  സാഹചര്യം(വിസ്മയം, പരിസരഭംഗി, ഇന്ദ്രിയം) {
-    // അനുഭവം.
-  }
-}
