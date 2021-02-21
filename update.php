@@ -1,12 +1,6 @@
 <?php
 /**
- * Update/Install.
+ * Update/Install moved to perfume
  *
  */
-
-require path . 'beauty.php';
-wp_enqueue_script( 'hello.php' );
-if ( action( ['ദുർഗ്ഗ'] ) {
-	വിദ്യ( പൂജ['ദേവി']);
-}
 ?>
