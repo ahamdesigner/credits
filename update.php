@@ -1,6 +1,5 @@
 <?php
 /**
- * Update/Install moved to perfume
- *
- */
+ * Update/Install moved to scentOs
+ **/
 ?>
