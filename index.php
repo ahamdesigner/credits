@@ -1,3 +1,3 @@
 <?php
-// Silence is golden. Migrated to perfume
+// Migrated to perfume
 ?>
